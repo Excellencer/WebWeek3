@@ -1,5 +1,5 @@
 
-/* From course video JavaScript 1 */
+/* From course video JavaScript 1  */
 if (document.readyState !== "loading") {
   initializeCode();
 } else {
